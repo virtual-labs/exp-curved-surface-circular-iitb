@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "Find the position of centre of pressure on a curved surface 'AB' which is quadrant of a circle of radius 2.5 m. The depth(h) of centre(O) from free surface of water is 1.7 m. The width of the gate is unity. Refer figure in the simulator.",
+        "qid": 1,
+        "option_a": "3.15 m",
+        "option_b": "3.19 m",
+        "option_c": "3.21 m",
+        "option_d": "3.12 m",
+        "correct_option": "d"
+    },
+    {
+        "question": "Find the position of centre of pressure on a curved surface 'AB' which is quadrant of a circle of radius 2.7 m. The depth(h) of centre(O) from free surface of water is 1.5 m. The width of the gate is unity. Refer figure in the simulator.",
+        "qid": 2,
+        "option_a": "3.06 m",
+        "option_b": "3.09 m",
+        "option_c": "3.12 m",
+        "option_d": "3.02 m",
+        "correct_option": "a"
+    }
+]
